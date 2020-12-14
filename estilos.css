@@ -1,0 +1,155 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box; }
+  
+body {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px; }
+  
+#mainNav {
+	width: 100%;
+	background-color: #301d10;
+	position: fixed;
+	top: 0;
+	left: 0; }
+	#mainNav .navbar-brand img {
+	  height: 3rem; }
+	#mainNav .navbar-toggler {
+	  padding: 0.75rem;
+	  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+	  font-size: 0.75rem;
+	  color: #fff;
+	  text-transform: uppercase;
+	  background-color: #fed136;
+	  border: 0; }
+	#mainNav .navbar-nav .nav-item .nav-link {
+	  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+	  font-size: 0.95rem;
+	  color: #fff;
+	  letter-spacing: 0.0625em; }
+  
+.card {
+	box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75); }
+  
+#Nosotros {
+	color: #301d10;
+	font-family: 'Open Sans', sans-serif; }
+  
+#Productos {
+	color: #301d10;
+	font-family: 'Open Sans', sans-serif; }
+  
+#Contactos {
+	color: #301d10;
+	font-family: 'Open Sans', sans-serif; }
+  
+.Header__Nombre {
+	padding: 150px;
+	font-size: 5rem;
+	color: #ffffff;
+	background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04c3c647-da17-4b97-b5da-467f512b6e97/de7oc01-c886132a-bf54-4aa5-b429-48e0e64983c8.png/v1/fill/w_1095,h_730,q_70,strp/cover_by_lightbell_de7oc01-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD04MDMiLCJwYXRoIjoiXC9mXC8wNGMzYzY0Ny1kYTE3LTRiOTctYjVkYS00NjdmNTEyYjZlOTdcL2RlN29jMDEtYzg4NjEzMmEtYmY1NC00YWE1LWI0MjktNDhlMGU2NDk4M2M4LnBuZyIsIndpZHRoIjoiPD0xMjA1In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.EhxfhLS2jh6pqrXoIkapSXR4qoxpywg5bBQdkjJu78g");
+	background-repeat: no-repeat;
+	background-size: cover; }
+  
+ #Slogan {
+	font-size: 2rem;
+	color: #ffffff;
+	font-family: 'Open Sans', sans-serif;
+	font-style: italic;
+	text-align: center;
+	font-weight: 300; }
+  
+.card {
+	box-shadow: 10px 10px 5px 0px #a8a8a8; }
+  
+.article {
+	padding: 50px;
+	color: #301d10;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	font-weight: 400;
+	font-size: 1rem; }
+  
+.Row {
+	/*display: flex;
+	  flex-direction: row;
+	  justify-content: space-evenly;*/
+	color: #301d10; }
+
+.container-texto {
+	padding: 40px;}
+  
+.Destacados {
+	font-weight: 400;
+	text-align: center;
+	color: #301d10; }
+  
+.TextoProductos {
+	color: #301d10;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300; }
+  
+p {
+	color: #301d10;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300; }
+  
+form {
+	color: #301d10; }
+  
+h1 {
+	font-family: 'Amiri', serif;
+	font-weight: 400; }
+  
+h3 {
+	font-family: 'Amiri', serif;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: 700; }
+  
+table {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300; }
+  
+fieldset {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	font-weight: 300; }
+  
+.Footer__Contactos {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	height: 20vh;
+	width: 100%;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	font-weight: 400;
+	color: #301d10;
+	background-color: #d5c8bc;
+	margin: 0px; }
+  
+.Footer__Datos {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300; }
+  
+.Copyright {
+	padding: 15px;
+	color: #ffffff;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	font-weight: 300;
+	text-align: center;
+	background-color: #282015;
+	margin: 0px; }
+  
+.imgPan {
+	width: 600px;
+	height: 300px; }
+  
+.carousel-inner img {
+	width: 100%;
+	height: 100%; }
+  
